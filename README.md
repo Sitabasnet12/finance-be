@@ -112,5 +112,5 @@ The **Finance Tracker App** is a web application designed to help users manage t
 
 ## **7. Contact**
 For questions or contributions:
-- Email: `your-email@example.com`
-- GitHub: [your-username](https://github.com/your-username)
+- Email: `sitabasnet095@gmail.com`
+- GitHub: 
